@@ -5,7 +5,8 @@ Cloud storage simplified
 ## Motivation
 
 - Syncthing is great but does not allow for *anything* outside of its core use-case of fast synchronisation between multiple clients
-- Nextcloud/Owncloud has horrendous performance and is way too heavy if you're only interested in cloud storage
+- Nextcloud/Owncloud has poor performance and is very heavy if you're only interested in cloud storage
+- Synology Drive works decently but is closed-source and vendor-locked
 - Traditional cloud services have great clients but get expensive when storing multiple TBs of data and can't be run locally for high performance storage
 
 ## Features
